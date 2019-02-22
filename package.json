@@ -51,7 +51,7 @@
     "bundlesize": "^0.17.0",
     "chai": "^4.1.2",
     "compression-webpack-plugin": "^2.0.0",
-    "coveralls": "^3.0.0",
+    "coveralls": "^3.0.3",
     "cypress": "^3.0.0",
     "dotenv": "^6.0.0",
     "gh-pages-with-token": "^1.0.0",
